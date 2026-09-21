@@ -1,0 +1,20 @@
+# 运行时数据（含真实 Cookie / API Key，绝不上传）
+data/
+*.db
+
+# 构建产物
+dist/
+build/
+__pycache__/
+*.pyc
+
+# 备份文件
+*.bak
+*.bak_*
+*.bak2_*
+
+# 编辑器/系统
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
